@@ -23,9 +23,9 @@ body {
 .card {
   width: 280px;
   padding: 10px 20px;
-  background: #8cf2ff;
+  background: #d6faff;
   border-radius: 5px;
-  box-shadow: 0 10px 10px rgba(241, 10, 229, 0.2);
+  box-shadow: 0 10px 10px rgba(10, 255, 255, 0.2);
 }
 
 img {
