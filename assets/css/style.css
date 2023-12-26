@@ -14,9 +14,10 @@ body {
   max-width: 1200px;
   display: flex;
   margin: 0 auto;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 20px;
   justify-content: center;
+  -webkit-flex-wrap: wrap;
 }
 
 .card {
