@@ -6,9 +6,8 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background: #000000;
+  background: #bdbdbd;
   padding-top: 50px;
-  padding-bottom: 50px;
 }
 
 .container-factions {
@@ -17,7 +16,6 @@ body {
   margin: 0 auto;
   flex-wrap: wrap;
   gap: 20px;
-  justify-content: center;
 }
 
 .card {
@@ -25,7 +23,7 @@ body {
   padding: 10px 20px;
   background: #8cf2ff;
   border-radius: 5px;
-  box-shadow: 0 10px 10px rgba(10, 241, 241, 0.2);
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
 }
 
 img {
