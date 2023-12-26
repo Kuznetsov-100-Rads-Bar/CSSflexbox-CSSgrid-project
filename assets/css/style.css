@@ -29,5 +29,8 @@ body {
 }
 
 img {
-  width: 150px;
+  width: 100px;
+  object-fit: cover;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
 }
