@@ -17,4 +17,10 @@ body {
   margin: 0 auto;
   flex-wrap: wrap;
   gap: 20px;
+  justify-content: center;
+}
+
+.card {
+  width: 280px;
+  padding: 10px 20px;
 }
