@@ -10,3 +10,7 @@ body {
   padding-top: 50px;
   padding-bottom: 50px;
 }
+
+.container-factions {
+  max-width: 1500px;
+}
