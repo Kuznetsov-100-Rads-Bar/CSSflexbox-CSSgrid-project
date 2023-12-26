@@ -12,5 +12,8 @@ body {
 }
 
 .container-factions {
-  max-width: 1500px;
+  max-width: 1200px;
+  display: flex;
+  margin: 0 auto;
+  flex-wrap: wrap;
 }
